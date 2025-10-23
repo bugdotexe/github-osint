@@ -29,3 +29,6 @@ This tool is intended for penetration testers and bug bounty hunters to quickly 
 - Example
 
 > ./findEmail.sh tori.fi tori
+
+# Disclaimer
+> This tool is for educational purposes and authorized security testing only. Do not use it on any domain or organization without explicit permission. The author is not responsible for any misuse or damage caused by this script.

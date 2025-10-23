@@ -24,11 +24,11 @@ This tool is intended for penetration testers and bug bounty hunters to quickly 
 
 - Run the script with the target domain and an organization name (which is used to create the output folder).
 
-> ./findEmail.sh <domain> <org_name>
+> ./email2username.sh <domain> <org_name>
 
 - Example
 
-> ./findEmail.sh tori.fi tori
+> ./email2username.sh replit.com replit
 
 # Disclaimer
 > This tool is for educational purposes and authorized security testing only. Do not use it on any domain or organization without explicit permission. The author is not responsible for any misuse or damage caused by this script.
